@@ -3,3 +3,4 @@
 ### 🌱 I’m currently learning _React_
 
 
+<span style="color:blue">some *blue* text</span>
