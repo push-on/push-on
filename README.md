@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hi, I’m @push-on</h1>
+## 👋 Hi I’m Pushon
 
 - 🌱 I’m currently learning  **React**
 - 💬 Ask me about **developer experience & tools**
