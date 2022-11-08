@@ -7,9 +7,12 @@
 - 🪬 my Personality type is **INTP-T**
 
 ### ✨ Interests
-- 🐵 Blender
+- ⏳ **Wasting time** for everything that seems interesting 🙄
+- 🦀 **Rust** (crab) still in early stages
+- 🐍 **Python**
+- 🪲 Searching for **bugs** projects
+- 🐵 **Blender** - 3D modeling, Sculpting, Motion Graphics
 - 🎮 Game animation & design
-- 🪲 Searching for bugs in your very project
-- ⏳ Wasting time for everything that seems interesting
-- 🦀 Rust (crab) still in early stages
-- 🐍 Python
+
+
+
