@@ -18,10 +18,8 @@ For me, programming has never been "simply a job," but rather a stimulating chal
 <img align="left" alt="NodeJS" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Linux" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Rust" width="20px" style="padding-right:10px;color:white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-<img align="left" alt="django" width="20px" style="padding-right:10px;color:white;;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-<img align="left" alt="" width="20px" style="padding-right:10px;" src="" />
 <br />
+          
 
 ### ✨ Interests
 - 🦀 **Rust** - (crab) still in early stages
@@ -30,4 +28,4 @@ For me, programming has never been "simply a job," but rather a stimulating chal
 - 🐵 **Blender** - 3D modeling, Sculpting, Motion Graphics
 - 🎮 **Game** - animation & design
 
-![Pushon's GitHub stats](https://github-readme-stats.vercel.app/api?username=push-on&show_icons=true&theme=synthwave)
+![Pushon's GitHub stats](https://github-readme-stats.vercel.app/api?username=push-on&show_icons=true&theme=merko)
