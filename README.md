@@ -28,4 +28,4 @@ For me, programming has never been "simply a job," but rather a stimulating chal
 - 🐵 **Blender** - 3D modeling, Sculpting, Motion Graphics
 - 🎮 **Game** - animation & design
 
-![Pushon's GitHub stats](https://github-readme-stats.vercel.app/api?username=push-on&show_icons=true&theme=merko)
+![Pushon's GitHub stats](https://github-readme-stats.vercel.app/api?username=push-on&show_icons=true&theme=dark)
