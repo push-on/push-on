@@ -25,7 +25,9 @@ For me, programming has never been "simply a job," but rather a stimulating chal
 <img align="left" alt="NodeJS" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <br />
+
 #
+
 ![Pushon's GitHub stats](https://github-readme-stats.vercel.app/api?username=push-on&show_icons=true&theme=radical)
 
 <details> <summary><h3>👨‍💻 My Coding Journey</h3></summary>
