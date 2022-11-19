@@ -13,7 +13,7 @@
 <img alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 </p>
 
-![Pushon's GitHub stats](https://github-readme-stats.vercel.app/api?username=push-on&show_icons=true&theme=radical)
+![Pushon's GitHub stats](https://github-readme-stats.vercel.app/api?username=push-on&show_icons=true&theme=algolia&border_radius=10)
 
 <details> <summary><h3>👨‍💻 My Coding Journey</h3></summary>
    I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, linux, theory. And all the while, teaching myself game development with a dream to build my own game, but that soon got overshadowed by my desire to excel in Rust. A desire that landed me a full-stack software engineering job upon graduation. For me, programming has never been "simply a job," but rather a stimulating challenge that has allowed me to keep learning and developing. What began as a simple productivity solution has developed into a full-fledged passion that only grows more thrilling each time.
