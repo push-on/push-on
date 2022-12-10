@@ -16,6 +16,7 @@
 <img alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </p>
 <h3>⚙️ GitHub Analytics</h3>
+<p align="center">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=push-on&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=push-on&layout=compact&langs_count=8&theme=algolia"/>
-
+</p>
