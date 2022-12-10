@@ -4,9 +4,7 @@
 - 🪬 my Personality type is **INTP-T**
 - 📫 How to reach me: **mh.imranhossain@gmail.com**
 - 🦀 **Rust** - (crab) still in early stages
-- 🪲 Searching for **bugs** projects
-- 🐵 **Blender** - 3D modeling, Sculpting, Motion Graphics
-- 🎮 **Game** - animation & design
+- 🪲 Searching for **bugs** on projects
 
 <h3>🔧 Tech Stack</h3>
 <p>
