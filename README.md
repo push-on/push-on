@@ -5,6 +5,7 @@
 - 📫 How to reach me: **mh.imranhossain@gmail.com**
 - 🦀 **Rust** - (crab) still in early stages
 - 🪲 Searching for **bugs** on projects
+- 🎨 Love [painting](https://www.instagram.com/pushon_art/) 
 
 <h3>🔧 Tech Stack</h3>
 <p>
