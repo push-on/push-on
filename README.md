@@ -7,6 +7,9 @@
 - 🪲 Searching for **bugs** on projects
 - 🎨 [Love painting](https://www.instagram.com/pushon_art/) 
 
+### 🟢 Trying to solve algorithm's in JS everyday.
+- like sorting algorithms, search & others
+
 <h3>🔧 Tech Stack</h3>
 <p>
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
