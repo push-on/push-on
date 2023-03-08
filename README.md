@@ -2,10 +2,9 @@
 **`Full Stack Web Devloper`**
 - 🌱 I’m currently learning  **React & Nodejs**
 - 🪬 my Personality type is **INTP-T**
-- 📫 How to reach me: **mh.imranhossain@gmail.com**
 - 🦀 **Rust** - (crab) still in early stages
-- 🪲 Searching for **bugs** on projects
 - 🎨 [Love painting](https://www.instagram.com/pushon_art/) 
+- 📫 How to reach me: **mh.imranhossain@gmail.com**
 
 <h3>🔧 Tech Stack</h3>
 <p>
