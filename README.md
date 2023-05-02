@@ -1,6 +1,6 @@
 # 👨‍🚀 Hi I’m Pushon
 
-**`Full Stack Web Devloper`**
+**`Full Stack Web Developer`**
 
 📫 My Email: **mh.imranhossain@gmail.com**
 
