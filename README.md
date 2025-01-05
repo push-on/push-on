@@ -2,7 +2,7 @@
 
 **`Full Stack Web Developer`**
 
-📫 My Email: **mh.imranhossain@gmail.com** 🍱 [Check my portfolio at bento](https://bento.me/pushon)
+📫 My Email: **mh.imranhossain@gmail.com** 🍱 [Check my portfolio at bento](https://bento.me/imran-dev)
 
 ### 📍 Find Me 👇
 
